@@ -1,5 +1,5 @@
-> 写写代码，读读闲书，开心最重要。  
-> 反正最后谁也别想活着离开这个世界。
+> 写写代码，读读闲书，开心最重要。 
+>  反正最后谁也别想活着离开这个世界。
 
 hello，大家好，我是张璐，这是我的女朋友，哦不对，是我的博客~准程序媛，非死宅，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
 
