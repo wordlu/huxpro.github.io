@@ -18,3 +18,5 @@ catalog:	true
 
 ![](img/in-post/essay/fullpage1.png)
 
+- 大屏首页的截图
+
