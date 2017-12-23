@@ -16,7 +16,7 @@ catalog:	true
 
 #### 先看效果图：
 
-<iframe height=500 width=500 src="img/in-post/essay/fullpage1.gif"> 
+<iframe height=500 width=500 src="http://m.qpic.cn/psb?/V11lwJ1S4MlyS7/.xazQabeMbRJ4aPFZMfbpplCh3p2uEZihkzPypDSyZI!/c/dGgBAAAAAAAA&bo=fAeeAwAAAAACl1U!&rf=viewer_4"> 
 
 - 大屏首页的截图
 
