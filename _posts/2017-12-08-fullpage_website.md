@@ -16,7 +16,7 @@ catalog:	true
 
 #### 先看效果图：
 
-![](img/in-post/essay/fullpage1.png)
+<iframe height=500 width=500 src="img/in-post/essay/fullpage1.gif"> 
 
 - 大屏首页的截图
 
